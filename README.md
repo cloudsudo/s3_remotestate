@@ -1,5 +1,1 @@
-# web-project
-# s3_remotestate
-# s3_remotestate
-# s3_remotestate
-# s3_remotestate
+# s3 Remote state for Terraform
